@@ -29,4 +29,3 @@ const petsHandler = async (req: NextApiRequest, res: NextApiResponse) => {
 };
 
 export default petsHandler;
-//"../../utils/mongodb";
